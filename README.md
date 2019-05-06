@@ -3,9 +3,9 @@
 ## Notebooks
 If you're mainly here to see the results.
 
-[CDP Survival Curves](https://github.com/askeluv/dai-transitions/blob/master/notebooks/dai-cpd-survival.ipynb)
-[CDP State Transitions](https://github.com/askeluv/dai-transitions/blob/master/notebooks/dai-state-transitions.ipynb)
-[CDP Spammers](https://github.com/askeluv/dai-transitions/blob/master/notebooks/dai-cdp-spammers.ipynb)
+- [CDP Survival Curves](https://github.com/askeluv/dai-transitions/blob/master/notebooks/dai-cpd-survival.ipynb)
+- [CDP State Transitions](https://github.com/askeluv/dai-transitions/blob/master/notebooks/dai-state-transitions.ipynb)
+- [CDP Spammers](https://github.com/askeluv/dai-transitions/blob/master/notebooks/dai-cdp-spammers.ipynb)
 
 ## Setup
 If you'd like to reproduce on your own laptop.
